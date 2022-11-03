@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working as a "Data Scientist".<br>🌱 I’m currently learning more about Machine Learning.<br>💬 Ask me about Data Pre-processing.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 12 hours thinking about Python & Pandas every day.<br>👯 Always ready to Explore New Places.
+🔭I'm currently working as a "Data Scientist".<br>🌱 I’m currently learning more about Machine Learning Models.<br>💬 Ask me about Data Pre-processing.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 12 hours thinking about Python & Pandas every day.<br>👯 Always ready to Explore New Places.
 
 
 ## 🌐 Socials:
