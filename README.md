@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Currently working as "Data Scientist".<br>🌱 Learning more about "Machine Learning & Deep Learning".<br>💬 Ask me about Data Pre-Processing & API creation.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend nearly 4 hours thinking& practicing about Python, Pandas, Data & Machine Learning every day.<br>👯 Always ready to Explore New Places. <br> 📫 Need more Ideas on my "Bhagvad Geeta" AI Project.<br>
+🔭Currently working as "Data Scientist".<br>🌱 Learning more about "Machine Learning & Deep Learning".<br>💬 Ask me about Data Pre-Processing & API development & deployment.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend nearly 4 hours thinking& practicing about Python, Pandas, Data & Machine Learning every day.<br>👯 Always ready to Explore New Places. <br> 📫 Need more Ideas on my "Bhagvad Geeta" AI Project.<br>
 ⚡Everything can be & must be "Automated"<br>
 
 
